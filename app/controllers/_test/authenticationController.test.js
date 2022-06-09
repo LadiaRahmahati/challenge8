@@ -10,9 +10,9 @@ describe("#createTokenFromUser", () => {
     it("it should create new token", async () => {
         const mockUser = {
             id: 1,
-            name: "luthfi",
-            email: "luthfi@gmail.com",
-            image: "luthfi.jpg",
+            name: "ladia",
+            email: "ladia@gmail.com",
+            image: "ladia.jpg",
         };
 
         const mockRole = {
@@ -46,9 +46,9 @@ describe("#decodeToken", () => {
     it("should decode token", async () => {
         const mockUser = {
             id: 1,
-            name: "luthfi",
-            email: "luthfi@gmail.com",
-            image: "luthfi.jpg",
+            name: "ladia",
+            email: "ladia@gmail.com",
+            image: "ladia.jpg",
         };
 
         const mockRole = {
