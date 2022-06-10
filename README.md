@@ -7,3 +7,7 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+Link heroku
+
+https://challenge8-binar.herokuapp.com/
